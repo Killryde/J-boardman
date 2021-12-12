@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Jayde</h1>
 
-- 🌱 I’m currently learning **HTML, CSS, JS** through **The Odin Project & FreeCodeCamp**
+- 🌱 I’m currently learning **Web Development** through **The Odin Project & FreeCodeCamp**
 
 - 📫 How to reach me **jaydeboardman@outlook.com**
 
