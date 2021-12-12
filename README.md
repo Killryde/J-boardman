@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayde</h1>
+<h1 align="left">Hi 👋, I'm Jayde</h1>
 
 - 🌱 I’m currently learning **HTML, CSS, JS** through **The Odin Project & FreeCodeCamp**
 
