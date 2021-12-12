@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Jayde</h1>
 
-- 🌱 I’m currently learning **Web Development** through **The Odin Project & FreeCodeCamp**
+- 🌱 I’m currently learning: **Web Development** through **The Odin Project & FreeCodeCamp**
 
-- 📫 How to reach me **jaydeboardman@outlook.com**
+- 📫 How to reach me: **jaydeboardman@outlook.com**
 
-- 👨‍💻 All of my projects are available at [https://j-boardman.github.io/portfolio/](https://j-boardman.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at: [https://j-boardman.github.io/portfolio/](https://j-boardman.github.io/portfolio/)
 
-- ⚡ Other Interests **Powerlifting, Learning Japanese, Skydiving**
+- ⚡ Other Interests: **Powerlifting, Learning Japanese, Skydiving**
  
 <p align="left">
 </p>
