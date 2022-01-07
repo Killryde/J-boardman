@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayde</h1>
+# Hi 👋, I'm Jayde
 
 
 
@@ -15,7 +15,6 @@
 <p><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-boardman&show_icons=true&locale=en&layout=compact" alt="j-boardman" /></p>
 
 
-<p><img width="100%" src="https://github-readme-stats.vercel.app/api?username=j-boardman&show_icons=true&locale=en" alt="j-boardman" /></p>
+<p><img width="50%" src="https://github-readme-stats.vercel.app/api?username=j-boardman&show_icons=true&locale=en" alt="j-boardman" /><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=j-boardman&" alt="j-boardman" /></p>
 
-
-<p><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=j-boardman&" alt="j-boardman" /></p>
+## Please check out my most recent project below! 👇
