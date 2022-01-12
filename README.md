@@ -2,7 +2,7 @@
 
 
 
-### 🌱 I'm currently learning: [JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript)
+### 🌱 I'm currently learning: [Asynchronous Code](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/asynchronous-code)
 
 ### 📫 How to reach me at: **jaydeboardman@outlook.com**
 
