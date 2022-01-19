@@ -8,8 +8,8 @@
 <!-- 
 ### 👨‍💻 All of my projects are available at: [https://j-boardman.github.io/portfolio/](https://j-boardman.github.io/portfolio/)
  -->
-### ⚡ Other Interests include: **Learning Japanese & Powerlifting**
-
+<!-- ### ⚡ Other Interests include: **Learning Japanese & Powerlifting**
+ -->
 ##
 
 <p><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-boardman&show_icons=true&locale=en&layout=compact" alt="j-boardman" /></p>
