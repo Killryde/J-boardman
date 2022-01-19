@@ -2,7 +2,7 @@
 
 
 
-### 🌱 I'm currently learning: [Asynchronous Code](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/asynchronous-code)
+### 🌱 I'm currently learning: [Full Stack JavaScript through The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript?)
 
 ### 📫 How to reach me at: **jaydeboardman@outlook.com**
 
