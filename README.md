@@ -1,13 +1,13 @@
-# Hi 👋, I'm Jayde
+# Hi, I'm Jayde 👋
 
 
 
-### 🌱 I'm currently learning: [Full Stack JavaScript through The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript?)
+### 🌱 I'm currently learning: [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
 
 ### 📫 How to reach me at: **jaydeboardman@outlook.com**
-
+<!-- 
 ### 👨‍💻 All of my projects are available at: [https://j-boardman.github.io/portfolio/](https://j-boardman.github.io/portfolio/)
-
+ -->
 ### ⚡ Other Interests include: **Learning Japanese & Powerlifting**
 
 ##
