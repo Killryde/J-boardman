@@ -4,7 +4,7 @@
 
 ### 🌱 I'm currently learning: [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
 
-### 📫 How to reach me at: **jaydeboardman@outlook.com**
+### 📫 You can reach me at: **jaydeboardman@gmail.com**
 <!-- 
 ### 👨‍💻 All of my projects are available at: [https://j-boardman.github.io/portfolio/](https://j-boardman.github.io/portfolio/)
  -->
