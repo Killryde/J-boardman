@@ -92,7 +92,7 @@
   </tr>
 </table>
 
-## 📚 Also interested in learning:
+## 📚 Also interested in learning
 
 <table>
   <tr>
@@ -180,7 +180,7 @@
   </tr>
 </table>
 
-## 📈 Stats:
+## 📈 Stats
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=J-boardman&show_icons=true&theme=react&&hide_border=true"
