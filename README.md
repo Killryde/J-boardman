@@ -184,8 +184,10 @@
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=J-boardman&show_icons=true&theme=react&&hide_border=true"
+  width="48%"
 />
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=J-boardman&&theme=react&&hide_border=true"
+  width="48%"
 />
 
