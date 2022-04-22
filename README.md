@@ -1,7 +1,7 @@
-# 👋 Hey there
+# 👋👋👋
 
 <div align="justify">
-  I'm Jayde and i'm super passionate about the JavaScript ecosystem! I'm currently learning <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript" target="_blank">Full Stack JavaScript</a> in the hopes to become a professional developer utilizing the MERN technology stack.
+  Hi! My name's Jayde and I'm super passionate about the JavaScript ecosystem! I'm currently learning <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript" target="_blank">Full Stack JavaScript</a> in the hopes of becoming a professional developer utilizing the MERN technology stack.
 </div>
 
 ## 🔧 Primary Technologies / Tools
