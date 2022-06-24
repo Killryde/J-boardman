@@ -170,12 +170,12 @@
    </td>
    <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"
         width="48"
         height="48"
-        alt="React"
+        alt="Bash"
       />
-      <br /><strong>Query</strong>
+      <br /><strong>Bash</strong>
    </td>
   </tr>
 </table>
