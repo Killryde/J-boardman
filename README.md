@@ -1,7 +1,7 @@
 # 👋👋👋
 
 <div align="justify">
-  Hi! My name's Jayde and I'm super passionate about the JavaScript ecosystem! I'm currently learning <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript" target="_blank">Full Stack JavaScript</a> in the hopes of becoming a professional developer utilizing the MERN technology stack.
+  Hi! My name's Jayde and I'm super passionate about the JavaScript ecosystem! I'm currently learning <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript" target="_blank">Full Stack JavaScript</a> in the hopes of becoming a professional developer utilizing the SERN/MERN technology stack.
 </div>
 
 ## 🔧 Primary Technologies / Tools
@@ -82,12 +82,12 @@
     </td>
    <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
         width="48"
         height="48"
-        alt="google"
+        alt="mysql"
       />
-      <br /><strong>Search</strong>
+      <br /><strong>MySQL</strong>
     </td>
   </tr>
 </table>
